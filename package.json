@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://drewgilman.github.io/Techdegree-Project-11/react-flickr-gallery",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.2.1",
     "react": "^16.7.0",
     "react-bootstrap": "^0.32.4",
